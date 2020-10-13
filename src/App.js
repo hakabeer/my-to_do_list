@@ -4,7 +4,7 @@ import './App.css';
 
 class Person {
   constructor(){
-     this.canTalk = true;
+     this.canTalk = false;
   }
 
   function talk() {
