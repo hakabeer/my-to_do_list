@@ -12,6 +12,7 @@ class Person {
   }
 
   function walk() {
+	  this.walk = true;
 
   }
 
